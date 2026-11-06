@@ -1,0 +1,7 @@
+# Local config containing your real API key
+config.js
+
+# Misc
+node_modules/
+.DS_Store
+.env
